@@ -2,7 +2,9 @@
 
 This  Repo contains all solutions to all Python module challenges on Hackkerrank platform.
 
-Note :- please Try to solve challenges yourself and use this code for guidance only.
+Note :- 
+All codes are written in Python 3.
+please Try to solve challenges yourself and use this code for guidance only.
 
 please Follow if you found this useful.
 
